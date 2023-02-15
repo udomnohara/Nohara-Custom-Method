@@ -4,6 +4,7 @@
   "description": "Simple javascript method for Dev Nohara",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
