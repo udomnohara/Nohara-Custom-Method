@@ -1,6 +1,6 @@
 {
   "name": "nohara-custom-method",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple javascript method for Dev Nohara",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
